@@ -3,7 +3,7 @@
   <br> 
 </h1>
 
-<h4 align="center">Game List is a social game-tracking app that allows users to easily search, filter, and track their video game collections, enabling them to share their gaming status and interact with others through comments, likes, and following. The V1 frontend made in React.js can be accessed <a href="https://github.com/Yzma/game_list_client">here.</a></h4>
+<h4 align="center">Game List is a social game-tracking app that allows users to easily search, filter, and track their video game collections, enabling them to share their gaming status and interact with others through comments, likes, and following. The V1 frontend made in React.js can be accessed <a href="https://github.com/Yzma/game-list-frontend-v1">here.</a></h4>
 <br>
 
 <p align="center">
@@ -40,13 +40,13 @@
 1. Clone the repository
 
 ```sh
-git clone https://github.com/Yzma/game_list.git
+git clone https://github.com/Yzma/game-list-backend-v1.git
 ```
 
 2. Move to the correct directory
 
 ```sh
-cd game_list
+cd game-list-backend-v1
 ```
 
 3. Install dependencies
