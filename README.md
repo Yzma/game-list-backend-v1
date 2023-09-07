@@ -66,7 +66,7 @@ DATABASE_TEST_DATABASE=
 SECRET_KEY_BASE=
 ```
 
-5. Seed the database (TODO)
+5. Seed the database
 
 ```sh
 rails db:seed
